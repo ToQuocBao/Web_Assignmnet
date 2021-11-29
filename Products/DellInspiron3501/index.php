@@ -5,22 +5,22 @@ $_SESSION['pid'] = "1";
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Price</title>
+<title>Price</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" href="../image/logo.png" />
+  <link rel="shortcut icon" href="//localhost/web_as//image/logo.png" />
   <link rel="stylesheet" href="https://www.w3schools.com/lib/w3.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">  
-  <link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//localhost/web_as//font-awesome/css/font-awesome.min.css">
   
   <link rel="stylesheet" type="text/css" href="../Price.css">
 </head>
 <body>
   <img id="fixed-background" src="./dell_inspiron_background.jpg" alt="fixed-image">
 	<div id="nav" class="sticky-nav">
-		<nav class="navbar navbar-expand-lg ">
+	<nav class="navbar navbar-expand-lg ">
 		  <div class="container">
-			<a class="navbar-brand" href="../Home/Home.php">
+			<a class="navbar-brand" href="//localhost/web_as/Home/Home.php">
 			  Dell
 			</a>
 			<div class="dropdown">
@@ -28,11 +28,11 @@ $_SESSION['pid'] = "1";
 				<i class="fa fa-bars"></i>
 			  </button>
 			  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-				<a class="dropdown-item" aria-current="page" href="../Home/Home.php">Trang chủ</a>
-				<a class="dropdown-item" aria-current="page" href="../Introduce/Introduce.php">Giới thiệu</a>
-				<a class="dropdown-item" aria-current="page" href="../Products">Sản phẩm</a>
-				<a href="../Contact/Contacts.php" class="dropdown-item" aria-current="page">Liên hệ</a>
-				<a class="dropdown-item" href="../account/index.php" class="nav-link" aria-current="page">
+				<a class="dropdown-item" aria-current="page" href="//localhost/web_as/Home/Home.php">Trang chủ</a>
+				<a class="dropdown-item" aria-current="page" href="//localhost/web_as/Introduce/Introduce.php">Giới thiệu</a>
+				<a class="dropdown-item" aria-current="page" href="//localhost/web_as/Products">Sản phẩm</a>
+				<a href="//localhost/web_as//Contact/Contacts.php" class="dropdown-item" aria-current="page">Liên hệ</a>
+				<a class="dropdown-item" href="//localhost/web_as/account/index.php" class="nav-link" aria-current="page">
                   <?php if(isset($_SESSION['is_login']) && $_SESSION['is_login'] == true) echo "Trang cá nhân";
                         else echo "Đăng nhập"; ?>
                 </a>
@@ -41,24 +41,24 @@ $_SESSION['pid'] = "1";
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			  <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-auto">
 				<li class="nav-item">
-				  <a class="nav-link" aria-current="page" href="../Home/Home.php">Trang chủ</a>
+				  <a class="nav-link" aria-current="page" href="//localhost/web_as/Home/Home.php">Trang chủ</a>
 				</li>
 				<li class="nav-item">
-				  <a class="nav-link" aria-current="page" href="../Introduce/Introduce.php">Giới thiệu</a>
+				  <a class="nav-link" aria-current="page" href="//localhost/web_as/Introduce/Introduce.php">Giới thiệu</a>
 				</li>
 				<li class="nav-item">
-				  <a class="nav-link" aria-current="page" href="../Products">Sản phẩm</a>
+				  <a class="nav-link" aria-current="page" href="//localhost/web_as/Products">Sản phẩm</a>
 				</li>
 				<li class="nav-item">
-				  <a href="../Contact/Contacts.php" class="nav-link" aria-current="page">Liên hệ</a>
+				  <a href="//localhost/web_as/Contact/Contacts.php" class="nav-link" aria-current="page">Liên hệ</a>
 				</li>
 			  </ul>
 			</div>
-			<a href="../account/index.php" class="nav-link" aria-current="page">
+			<a href="//localhost/web_as//account/index.php" class="nav-link" aria-current="page">
                   <?php if(isset($_SESSION['is_login']) && $_SESSION['is_login'] == true) echo "Trang cá nhân";
                         else echo "Đăng nhập"; ?>
                 </a>
-			<div class="logo"><img class="logo" src="../image/logo.png" alt=""></div>
+			<div class="logo"><img class="logo" src="//localhost/web_as/image/logo.png" alt=""></div>
 		  </div>
 		</nav>
 	  </div>
@@ -70,22 +70,12 @@ $_SESSION['pid'] = "1";
 		  <i class="fa fa-bars"></i>
 		</button>
 		<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-		  <a class="dropdown-item" aria-current="page" href="../Home/Home.php">Trang chủ</a>
-		  <a class="dropdown-item" aria-current="page" href="../Price/Pricea200.php">A 200</a>
-		  <a class="dropdown-item" aria-current="page" href="../Price/Pricea250.php">A 250</a>
-		  <a class="dropdown-item" aria-current="page" href="../Price/Pricec200.php">C 200</a>
-			<a class="dropdown-item" aria-current="page" href="../Price/Pricec250.php">C 250</a>
-			<a class="dropdown-item" aria-current="page" href="../Price/Pricec300.php">C 300</a>
-			<a class="dropdown-item" aria-current="page" href="../Price/Pricee200.php">E 200</a>
-					<a class="dropdown-item" aria-current="page" href="../Price/Pricee250.php">E 250</a>
-					<a class="dropdown-item" aria-current="page" href="../Price/Pricee300.php">E 300</a>
-					<a class="dropdown-item" aria-current="page" href="../Price/Priceg65.php">G 65</a>
-					<a class="dropdown-item" aria-current="page" href="../Price/Priceglc200.php">GLC 200</a>
-					<a class="dropdown-item" aria-current="page" href="../Price/Priceglc300coupe.php">GLC coupe</a>
-					<a class="dropdown-item" aria-current="page" href="../Price/Priceglc300matic.php">GLC 4matic</a>
-					<a class="dropdown-item" aria-current="page" href="../Price/Pricegle400.php">GLE 400</a>
-					<a class="dropdown-item" aria-current="page" href="../Price/Pricegle450.php">GLE 450</a>
-
+			<a class="dropdown-item" aria-current="page" href="//localhost/web_as/Home/Home.php">Trang chủ</a>
+			<a class="dropdown-item" aria-current="page" href="../DellAlienwareM15R6">Dell Alienware M15 R6</a>
+			<a class="dropdown-item" aria-current="page" href="../DellInspiron3501">Dell Inspiron 3501</a>
+			<a class="dropdown-item" aria-current="page" href="../DellInspiron5502">Dell Inspiron 5502</a>
+			<a class="dropdown-item" aria-current="page" href="../DellVostro3400">Dell Vostro 3400</a>
+			<a class="dropdown-item" aria-current="page" href="../DellXPS139300">C Dell XPS 13 9300</a>
 		</div>
 	  </div>
 	<div id="menu">
