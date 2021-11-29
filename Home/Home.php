@@ -64,7 +64,7 @@ session_start();
     </div>
     <section class="showcase">
       <div class="showcase-container w3-container w3-center">
-        <h1 class="w3-text-shadow w3-animate-opacity">Thế giới Mercedes</h1>
+        <h1 class="w3-text-shadow w3-animate-opacity">Thế giới DELL</h1>
         <hr>
         <p class="w3-animate-opacity">Mercedes có thể tự hào về sản phẩm của mình không chỉ có thiết kế tốt nhất và sang trọng mà còn là công nghệ tốt nhất. Mercedes-benz đặt chân lần đầu vào Việt Nam vào năm 1995 và là thành viên của tập đoàn DaimlerChrysler, hãng là một trong những đơn vị phân phối ô tô hàng đầu tại Việt Nam. Những sản phẩm của hãng thiên về chất lượng và kiểu dáng được đánh giá hiện đại luôn luôn bắt kịp những xu hướng của thị trường. Với một thương hiệu xuất thân từ đất nước có nền công nghiệp sản xuất ô tô phát triển cực thịnh như Đức, ngay lập tức hãng chiếm được lòng tin của khách hàng.</p>
         <button onclick="document.getElementById('start-modal').style.display='block'" class="w3-button w3-red w3-large w3-opacity">Khám phá</button>
@@ -92,30 +92,26 @@ session_start();
   </div>
 
   <div class="container-2">
-    <h2>TẠI SAO BẠN NÊN CHỌN MERCEDES</h2>
+    <h2>TẠI SAO NÊN CHỌN MUA LAPTOP DELL?</h2>
   <div class="column-layout">
     <div class="column--1">
-      <h4>TIÊN PHONG VỀ CÔNG NGHỆ AN TOÀN</h4>
-      <p>Trong hơn nửa thập kỷ, các kỹ sư của Mercedes đã tận tụy chuẩn bị cho một khoảnh khắc mà họ hy vọng không bao giờ xảy ra.
-        Đó là các kỹ sư của hãng đã nghiên cứu trang bị cho những mẫu xe của họ các trang bị an toàn tiên tiến nhất.</p>
-        <p> Để giảm tới mức tối đa tỉ lệ tai nạn xảy ra, cùng với các hệ thống bảo vệ người lái và hành khách trong xe. Khi chẳng may có sự cố phát sinh, giảm tỉ lệ nghiêm trọng của sự cố xuống mức thấp nhất có thể. Các kỹ sư của Mercedes luôn làm việc hết mình để chuẩn bị cho mẫu xe mình các công nghệ bảo vệ và giảm thiểu tính nghiệm trong của các sự cố.
-      </p>
+      <h4>Laptop dell sang trọng và tinh tế</h4>
+      <p>Dell mang đến cho chúng ta những sản phẩm có chất lượng tốt với lối thiết kế bền bỉ, mạnh mẽ cùng cấu hình tốt và hiệu suất ổn định. Không chỉ ở Việt Nam mà ngay tại thị trường Mỹ hay các nước châu Âu vẫn luôn trung thành khi chọn mua laptop Dell bởi nó là sản phẩm phù hợp với dân văn phòng bởi có Pin khỏe, chịu va đập tốt và hơn hết là giá thành lại rất phải chăng. Người ta vẫn hay dùng từ “ nồi đồng cối đá” mỗi khi nói về Dell và điều này hoàn toàn không hề sai khi khách hàng Việt có nhiều năm trải nghiệm dòng sản phẩm này.</p>
+        <p> Cùng với đó, chế độ bảo hành của hãng cũng tạo được ấn tượng mạnh mẽ khi luôn đáp ứng được yêu cầu của khách hàng một cách nhanh chóng nhất.</p>
     </div>
     <div class="column--1">
-      <h4>TIÊU CHUẨN KHẮT KHE NHẤT THẾ GIỚI</h4>
-      <P>Mỗi chiếc Mercedes được giao tới tay khách hàng phải đạt tất cả các tiêu chuẩn cao nhất của hãng đã đặt ra. Không chỉ là thiết kế bề ngoài, mà cảm giác tới từng chi tiết nhỏ trong nội thất, cảm giác lái và cả âm thanh chiếc xe phát ra.</P> 
-      <p>Đối với Mercedes họ không quan đến việc chế tạo ra những chiếc xe chỉ đơn thuần là mạnh mẽ hay tốc độ cao. Thay vào đó, họ chế tạo những chiếc ô tô kết hợp nhiều khía cạnh của hiệu suất, thiết kế nội ngoại thất, để tạo ra thứ gì đó phi thường.</p> 
-      <p>Slogan Mercedes nói lên tất cả: "The best or nothing – Tốt nhất hoặc không là gì cả".</P>
+      <h4>Laptop Dell thường có bộ xử lý tốt, tốc độ nhanh</h4>
+      <P>Các dòng laptop được sản xuất theo nhu cầu từ phía khách hàng, các dòng máy dành cho doanh nhân, sinh viên, hay phổ thông đều có những đặc điểm đánh mạnh vào mục đích sử dụng của các đối tượng này.</P> 
+      <p>Khi mua laptop Dell là khi người ta còn tin tưởng vào thời lượng Pin bền, bởi những sản phẩm mới sẽ cho thời gian sử dụng tối thiểu 5h liên tục.</P>
     </div>
   </div>
   <div class="column-layout">
     <div class="column--1">
-      <h4> MERCEDES LÀ HÃNG XE HƠI CÓ LỊCH SỬ LÂU ĐỜI NHẤT THẾ GIỚI</h4>
-      <p>Kể từ khi phát minh ra chiếc xe hơi đầu tiên, Mercedes đã định hình tiêu chuẩn cho ngành sản xuất ô tô. Với các mẫu xe đặc trưng cho sự an toàn, hiệu suất và cảm giác lái xe tuyệt vời. Chỉ có một lý do khiến nhà sản xuất ô tô đầu tiên trên thế giới vấn đứng đầu ngành đến nay, đó là sự đổi mới liên tục.</p>
-    </div>
+      <h4> Độ bền cao</h4>
+      <p>Khi nhắc đến việc mua laptop Dell điều người ta nghĩ đến đầu tiên đó chính là độ bền. Nếu quý vị yêu cầu một chiếc máy tính xách tay thường xuyên phải theo mình di chuyển, chịu được điều kiện tự nhiên khắc nghiệt hay va đập mạnh thì đừng chọn ai khác ngoài Dell.</div>
     <div class="column--1">
-      <h4>THƯƠNG HIỆU ĐẲNG CẤP NHẤT THẾ GIỚI</h4>
-      <P> Mercedes là thương hiệu ô tô có giá trị lớn nhất thế giới, khi nhắc đến Mercedes người ta sẽ nghĩ ngay đến tầng lớp tinh hoa thành đạt, những người không chỉ tạo ra nhiều của cải cho chính mình mà họ còn đóng góp rất nhiều cho xã hội. </P>
+      <h4>Giá thành hấp dẫn so với hiệu năng</h4>
+      <P>Với hiệu năng sử dụng ở các sản phẩm cùng tầm mang thương hiệu khác thì Dell vẫn có giá tốt hơn rất nhiều. Chính vì thế ta thường thấy Dell được các bạn sinh viên sử dụng khá nhiều bởi thương hiệu này đáp ứng đầy đủ những yêu cầu của đối tượng khách hàng này.</P>
     </div>
   </div>
 </div>
@@ -127,8 +123,8 @@ session_start();
     <div class="video-text"> 
       <h2>First Move The World
       </h2>
-<p>Mục tiêu của Mercedes-Benz được đúc kết trong câu 'First Move The World', có thể hiểu là động lực, là ý nghĩa của mọi việc chúng tôi thực hiện. 'First Move the World' là lời thúc đẩy phải đạt được nhiều hơn, tiến xa hơn những mục tiêu ngay trước mắt. Tinh thần quả cảm đó là sức sống của thương hiệu, hoặc theo cách gọi của chúng tôi - ADN của thương hiệu.</p>    
-<p>Giữa những biến đổi, tinh thần ấy giúp định hướng cho chiến lược kinh doanh hòa hợp và bền vững, và cho mọi quyết định. Tinh thần đó được thể hiện qua Tầm nhìn 2039 – con đường đến với di chuyển bền vững, tìm các nguồn năng lượng xanh, and duy trì quan hệ đối tác chiến lược cho các dự án xe không người lái với Tập đoàn mẹ Daimler và Tập đoàn BMW.</p>
+<p>Ngành công nghệ máy tính đã và đang là một ngành công nghiệp có sự cạnh tranh gắt gao nhất trên thế giới. Hiện nay, các ông lớn có được thị phần lớn có thể kể đến như Apple, HP, Asus, Sony Vaio, DELL. Trong số đó thì DELL là một hãng máy tính có lịch sử hình thành và phát triển lâu đời, DELL là doanh nghiệp có thu nhập xếp từ 28 tại Mỹ. Với số vốn ban đầu chỉ khoảng 1000 đô la mỹ, những gì DELL đã đạt được là điều không tưởng với mọi người.</p>    
+<p>Mục tiêu lớn của Dell vào năm 2030 là một dự án đầy tham vọng, cam kết tiếp tục sử dụng các nguyên liệu tái chế và tái tạo trong việc sản xuất các dòng sản phẩm. Dell mở rộng việc ứng dụng nhựa sinh học trong việc sản xuất hai sản phẩm Latitude 5421 và 5521 mới. Được làm từ cao dầu (tall oil), những vật liệu tái tạo này được dùng để sản xuất mặt lưng màn hình (chiếm 21% trọng lượng). Dell cũng đang tìm kiếm các giải pháp để sử dụng nhiều hơn các loại vật liệu tái chế trong sản xuất.</p>
     </div>
   </div>
   
