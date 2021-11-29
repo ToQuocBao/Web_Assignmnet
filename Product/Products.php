@@ -312,7 +312,10 @@ session_start();
               <img src="./image_product/filter_v250.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="./image_product/filter_v250.jpg" data-gall="portfolioGallery" class="venobox" title="V250"><i class="bx bx-plus"></i><h6>V250</h6></a>
-                <a href="../Price/Price.php#v250"><i class="bx bx-link"></i><h6>Chi tiết</h6></a>
+                <a href="../Price/Price.php
+                
+                
+                #v250"><i class="bx bx-link"></i><h6>Chi tiết</h6></a>
               </div>
             </div>
           </div>
