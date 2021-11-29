@@ -66,7 +66,7 @@ session_start();
       <div class="showcase-container w3-container w3-center">
         <h1 class="w3-text-shadow w3-animate-opacity">Thế giới DELL</h1>
         <hr>
-        <p class="w3-animate-opacity">Mercedes có thể tự hào về sản phẩm của mình không chỉ có thiết kế tốt nhất và sang trọng mà còn là công nghệ tốt nhất. Mercedes-benz đặt chân lần đầu vào Việt Nam vào năm 1995 và là thành viên của tập đoàn DaimlerChrysler, hãng là một trong những đơn vị phân phối ô tô hàng đầu tại Việt Nam. Những sản phẩm của hãng thiên về chất lượng và kiểu dáng được đánh giá hiện đại luôn luôn bắt kịp những xu hướng của thị trường. Với một thương hiệu xuất thân từ đất nước có nền công nghiệp sản xuất ô tô phát triển cực thịnh như Đức, ngay lập tức hãng chiếm được lòng tin của khách hàng.</p>
+        <p class="w3-animate-opacity">Khoảng 95% máy tính xách tay Dell được sản xuất tại các quốc gia châu Á là Penang, Malaysia và Hạ Môn, Trung Quốc. Ngoài ra để đáp ứng nhu cầu của tiểu lục địa và Nam Mỹ, Dell đã đầu tư vào Chennai, Ấn Độ lẫn Hortolandia, Brazil. Dell luôn luôn nghĩ tới nhu cầu, trải nghiệm người dùng và họ luôn mang tới cho người dùng những chiếc laptop dễ dàng sử dụng và đầy cảm hứng. Dell mang lại trải nghiệm tối ưu với màn hình độ phân giải cao nhất và chất lượng xây dựng vượt trội, vật liệu chế tạo laptop độc đáo và các tính năng mạnh mẽ. Đây là dòng laptop cao cấp được trang bị màn hình độ nét rất cao, với các phần cứng mạnh mẽ, cấu hình cao.</p>
         <button onclick="document.getElementById('start-modal').style.display='block'" class="w3-button w3-red w3-large w3-opacity">Khám phá</button>
       </div>
     </section>
@@ -75,15 +75,17 @@ session_start();
   <!-- Video -->
   <div class="video-container">
     <div class="video-text"> 
-      <h2>MERCEDES-BENZ</h2>
-      <p>Mercedes-Benz là một trong những hãng sản xuất xe ô tô, xe buýt, xe tải danh tiếng trên thế giới. Hãng được xem là hãng sản xuất xe hơi lâu đời nhất còn tồn tại đến ngày nay. Khởi đầu, hãng thuộc sở hữu bởi Daimler-Benz.</p> 
-      <p>Hiện tại, hãng là một thành viên của công ty mẹ, Daimler AG (tên trước đây là DaimlerChrysler AG). Mercedes-Benz còn là một trong những hãng đi tiên phong trong việc giới thiệu nhiều công nghệ và những sáng kiến về độ an toàn mà sau đó đã trở nên phổ biến trên toàn thế giới. </p>
-      <p>Các dòng xe Mercedes-Benz phổ biển:</p>
+      <h2>DELL</h2>
+      <p>Dell Inc. là một công ty đa quốc gia của Hoa Kỳ về phát triển và thương mại hóa công nghệ máy tính có trụ sở tại Round Rock, Texas, Hoa Kỳ. Dell được thành lập năm 1984 do chủ quản gia Michael Dell đồng sáng lập. Đây là công ty có thu nhập lớn thứ 28 tại Hoa Kỳ.</p> 
+      <p>Với phương châm: phương thức bán hàng cũng góp phần quan trọng vào thành công của hãng như là sản phẩm mà hãng bán ra, Dell đã dành khá nhiều công sức vào việc đào tạo các nhân viên phục vụ khách hàng của mình bằng việc bắt buộc tất cả các nhân viên phải qua một khóa huấn luyện 6 tuần để trả lời các câu hỏi của khách, giải quyết các khiếu nại, nhận đơn đặt hàng và giúp đỡ các khách hàng lựa chọn sản phẩm theo đúng yêu cầu trước khi đưa họ ra bán hàng.</p>
+      <p>Các dòng DELL phổ biển:</p>
     <ul>
-      <li>Dòng xe Mercedes-Benz A Class</li>
-      <li>Dòng xe Mercedes-Benz B Class</li>
-      <li>Dòng xe Mercedes-Benz C Class</li>
-      <li>Dòng xe Mercedes-Benz E Class</li>
+      <li>Dòng Dell Inspiron</li>
+      <li>Dòng Dell Vostro</li>
+      <li>Dòng XPS</li>
+      <li>Dòng Dell Alienware</li>
+      <li>Dòng Dell Precision</li>
+      <li>Dòng Dell Latitude</li>
     </ul>
     </div>
       <video autoplay muted loop class="myVideo">
