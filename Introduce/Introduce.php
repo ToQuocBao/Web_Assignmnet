@@ -4,7 +4,7 @@ session_start();
 ?>
 <html lang="vi">
 <head>
-  <title>Mercedes</title>
+  <title>Dell</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="../image/logo.png" />
@@ -20,7 +20,7 @@ session_start();
         <nav class="navbar navbar-expand-lg ">
           <div class="container">
             <a class="navbar-brand" href="../Home/Home.php">
-              Mercedes
+              DELL
             </a>
             <div class="dropdown">
               <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -87,121 +87,121 @@ session_start();
         </a>
       </div>
     </div>
-    <h2 class="text-center text-uppercase font-weight-bold pt-5 pb-2">Giới thiệu Mercedes</h2>
+    <h2 class="text-center text-uppercase font-weight-bold pt-5 pb-2">Giới thiệu Dell</h2>
     <div class="container">
       <div class="row">
         <div class="col-md-6 my-auto d-md-none">
-          <img class="image-size show-on-scroll inline-photo main-photo" src="../image/intro-1.jpg" alt=" Mercedes-Benz- Siêu xe Đức">
+          <img class="image-size show-on-scroll inline-photo main-photo" src="../image/intro-1.jpg" alt=" Laptop-Dell">
         </div>
         <div class="col-md-6 text-justify my-auto">
           <p class="text-inline">
-            Mercedes-Benz là một trong những hãng xe hơi lâu đời nhất thế giới. Qua nhiều năm tháng nhưng biểu tượng ngôi sao 3 cánh vẫn được giữ nguyên và luôn đẳng cấp. Những thiết kế ấn tượng cùng với chất lượng cao cấp, xe của hãng xe Đức này luôn thu hút được những ánh nhìn đầu tiên.
+          Dell là thương hiệu của công ty Dell Inc. Đây là thương hiệu của Hoa Kỳ được thành lập vào năm 1984. 
+          Hiện tay, công ty đa quốc gia này có trụ sở đặt tại Round Rock, Texas do ông Michael Dell sáng lập.
           </p>
-          <p class="text-inline pt-2">Xét về cơ bản thì Mercedes-Benz có 5 dòng chính được đặt tên lần lượt là A,B,C,E và S, thêm một dòng ở phân khúc cao cấp hơn là Maybach.</p>
+          <p class="text-inline pt-2">Laptop Dell được đánh giá là một trong những thương hiệu laptop xài bền và có nhiều ưu điểm thích hợp với nhiều nhu cầu sử dụng.</p>
     
-          <p class="text-inline pt-2 show-on-scroll"> Cuối những ký tự đó là chữ “Class” thể hiện đây là một dòng xe. Dòng xe càng về cuối từ trái sang phải thì có thiết kế càng lớn cũng như dung tích động cơ lớn và mạnh mẽ hơn.</p>
-            
-          <p class="text-inline pt-2"> Mỗi dòng xe lại có những dòng xe nhỏ khác ở bên trong, phong cách thiết kế thì tượng tự nhau chỉ khác biệt ở các tính năng. Việc này giúp chia nhỏ phân khúc và đáp ứng được nhiều yêu cầu của khách hàng hơn.</p>
+          <p class="text-inline pt-2 show-on-scroll">Laptop Dell có các dòng sản phẩm chính như: Dell Inspiron, Dell Vostro, Dell Alienware, Dell XPS, 
+            Dell Precision, Dell ChromeBook, Dell Latitude, Dell Gaming series </p>            
+          <p class="text-inline pt-2">Mỗi dòng sản phẩm đều có các series và cấu hình khác nhau để phù hợp với từng nhu cầu mỗi người </p>
         </div>
         <div class="col-md-6 my-auto d-none d-md-block">
-          <img class="image-size show-on-scroll inline-photo main-photo" src="../image/intro-1.jpg" alt=" Mercedes-Benz- Siêu xe Đức">
+          <img class="image-size show-on-scroll inline-photo main-photo" src="../image/intro-1.jpg" alt=" Laptop-Dell">
         </div>
       </div>
     </div>
-    <h2 class="text-center text-uppercase font-weight-bold pt-5 pb-2">Các dòng xe Mercedes</h2>
+    <h2 class="text-center text-uppercase font-weight-bold pt-5 pb-2">Các dòng sản phẩm chính của Dell</h2>
     <div class="container">
       <div class="row">
         <div class="col-md-6 my-auto">
-          <img class="image-size show-on-scroll inline-photo" src="../image/mer1.jpg" alt=" Mercedes-Benz- Siêu xe Đức">
+          <img class="image-size show-on-scroll inline-photo" src="../image/mer1.jpg" alt=" Laptop-Dell">
         </div>
         <div class="col-md-6 my-auto text-inline">
-          <h3 class="font-weight-bold pb-3">Dòng Mercedes A Class</h3>
-          <p>Đây là dòng xe nhỏ nhất của Mercedes-Benz (Compact car), những chiếc xe này được ra đời vào tháng 9/1993. Dòng A Class này được sử dụng hệ dẫn động cầu trước đầu tiên.
+          <h3 class="font-weight-bold pb-3">Dòng Dell Inspiron</h3>
+          <p> Dell Inspiron là dòng laptop phổ biến nhất với giá thành tầm trung nên được rất nhiều sinh viên lựa chọn sử dụng. 
+            Ở phân khúc này Dell Inspiron có cấu hình khá chất với giá khá bình dân, gần như là hoàn thiện đầy đủ các chức năng tiện ích.
             <br>
-            <strong>Dòng A Class gồm các thế hệ:</strong></p>
+            <strong>Các sản phẩm nổi tiếng của dòng này</strong></p>
             <ul>
-              <li>Giai đoạn 1997 – 2004: Thế hệ thứ nhất – W168</li>
-              <li>Giai đoạn 2004 – 2012: Thế hệ thứ hai – W169</li>
-              <li>Giai đoạn 2012 – nay: Thế hệ thứ ba – W176</li>
+              <li>DELL Inspiron 3000</li>
+              <li>DELL Inspiron 5000</li>
+              <li>DELL Inspiron 7000</li>
             </ul>            
         </div>
       </div>
       <div class="row">
         <div class="col-md-6 my-auto d-md-none">
-          <img class="image-size show-on-scroll inline-photo" src="../image/mer2.jpg" alt=" Mercedes-Benz- Siêu xe Đức">
+          <img class="image-size show-on-scroll inline-photo" src="../image/mer2.jpg" alt=" Laptop-Dell">
         </div>
         <div class="col-md-6 my-auto text-inline">
-          <h3 class="font-weight-bold pb-3">Dòng Mercedes B-Class</h3>
-          <p>Đây là dòng xe gia đình cỡ nhỏ, có kích thước lớn hơn dòng A Class một chút. Những dòng xe này được gọi chung là MPV
+          <h3 class="font-weight-bold pb-3">Dòng Dell Latitude và Dell Vostro</h3>
+          <p>Dòng Dell Latitude siêu mỏng, siêu đẹp, dành cho những doanh nhân. Khả năng đáp ứng tốt giá cả đa dạng ở nhiều mức khác nhau. 
+            Máy có tính bảo mật cao, hoạt động mướt mờ, một số mẫu có hỗ trợ tính năng bảo mật vân tay. Dòng Vostro tương tự như Latitude nhưng
+            đây là bản cấp thấp hơn.
             <br>
-            <strong>Dòng B Class gồm các thế hệ:</strong></p>
+            <strong>Các sản phẩm nổi tiếng của dòng này</strong></p>
             <ul>
-              <li>Giai đoạn 2005 – 2011: Thế hệ thứ nhất – W245</li>
-              <li>Giai đoạn 2011 – nay: Thế hệ thứ hai – W246</li>
+              <li>Dell Latitude 3520</li>
+              <li>Dell Vostro 3000</li>
+              <li>Dell Vostro 5000</li>
             </ul>            
         </div>
         <div class="col-md-6 my-auto d-none d-md-block">
-          <img class="image-size show-on-scroll inline-photo" src="../image/mer2.jpg" alt=" Mercedes-Benz- Siêu xe Đức">
+          <img class="image-size show-on-scroll inline-photo" src="../image/mer2.jpg" alt=" Laptop-Dell">
         </div>
       </div>
       <div class="row">
         <div class="col-md-6 my-auto">
-          <img class="image-size show-on-scroll inline-photo" src="../image/mer3.jpg" alt=" Mercedes-Benz- Siêu xe Đức">
+          <img class="image-size show-on-scroll inline-photo" src="../image/mer3.jpg" alt=" Laptop-Dell">
         </div>
         <div class="col-md-6 my-auto text-inline">
-          <h3 class="font-weight-bold pb-3">Dòng Mercedes C Class</h3>
-          <p>Là những chiếc xe sedan cỡ nhỏ của Mercedes-Benz được cho ra mắt vào năm 1993. Đây là dòng xe mang lại doanh thu cao nhất cho hãng xe nước Đức này, khi ra mắt C-Class thay thế cho thế hệ W201. Những chiếc xe của C-Class được trang bị các hệ thống động cơ như I4, V6 và V8. Sử dụng hệ dẫn động RWD hoặc 4Matic.
+          <h3 class="font-weight-bold pb-3">Dòng Dell Alienware và Dell Gaming</h3>
+          <p> Dell Alienware là những chiếc laptop dành cho những dân chơi game chuyên nghiệp, 
+            đây là dòng máy tính xách tay chuyên chơi game lâu đời nhất trên thế giới.
             </p>
             <p>
-            Ngoài ra C-Class còn có các biến thể khác nữa như là Wagon, Convertible, Coupe. Chiếc xe hiệu năng cao nổi tiếng của hãng là C63 AMG.
-            <strong>Dòng C Class gồm các thế hệ:</strong></p>
+            Dell Gaming series là dòng máy tính có thiết kế mạnh mẽ và độc đáo, các phiên bản của dòng Dell Gaming series phù hợp với cả môi trường văn phòng và chơi game. 
+            Mặc dù mức giá không quá đắt nhưng những sản phẩm của dòng này vẫn đảm bảo chất lượng, thỏa mãn nhu cầu của khách hàng.
+            <strong>Các phiên bản nổi bật trong dòng này</strong></p>
             <ul>
-              <li>Giai đoạn 1993 – 2000: Thế hệ thứ nhất – W202</li>
-              <li>Giai đoạn 2000 – 2007: Thế hệ thứ hai – W203</li>
-              <li>Giai đoạn 2007 – 2014: Thế hệ thứ ba – W204</li>
-              <li>Giai đoạn 2014 – nay: Thế hệ thứ tư – W205</li>
+              <li>Dell G3</li>
+              <li>Dell G5</li>
+              <li>Dell G7</li>
             </ul>            
         </div>
       </div>
       <div class="row">
         <div class="col-md-6 my-auto d-md-none">
-          <img class="image-size show-on-scroll inline-photo" src="../image/mer4.jpg" alt=" Mercedes-Benz- Siêu xe Đức">
+          <img class="image-size show-on-scroll inline-photo" src="../image/mer4.jpg" alt=" Laptop-Dell">
         </div>
         <div class="col-md-6 my-auto text-inline">
-          <h3 class="font-weight-bold pb-3">Dòng Mercedes E-Class</h3>
-          <p>Bạn có biết chữ E tượng trưng cho gì không? Là chữ “Einspritz” trong tiếng Đức có nghĩa là “phun xăng”, đúng vậy những chiếc thuộc dòng E Class này được sử dụng hệ thống phun xăng điện tử đó chính là nguồn gốc cho tên gọi này.
+          <h3 class="font-weight-bold pb-3">Dòng Dell XPS</h3>
+          <p>Thuộc dòng Ultrabook cao cấp cạnh tranh đối thủ với Macbook Pro của Apple, 
+            với thiết kế siêu mỏng siêu đẹp và siêu nhẹ, màn hình độ phân giải cao, được trang bị với đa phương tiện chức năng tốt nhất.
             <br>
-            <strong>Dòng E Class gồm các thế hệ:</strong></p>
+            <strong>Các phiên bản nổi bật trong dòng này</strong></p>
             <ul>
-              <li>Giai đoạn 1993 – 1995: Thế hệ thứ nhất – W124.</li>
-              <li>Giai đoạn 1995 – 2002: Thế hệ thứ hai – W120.</li>
-              <li>Giai đoạn 2002 – 2009: Thế hệ thứ ba – W211.</li>
-              <li>Giai đoạn 2009 – 2016: Thế hệ thứ tư – W212.</li>
-              <li>Giai đoạn 2016 – nay: Thế hệ thứ năm – W213.</li>
+              <li>Dell XPS 12.</li>
+              <li>Dell XPS 13</li>
+              <li>Dell XPS 15</li>
             </ul>            
         </div>
         <div class="col-md-6 my-auto d-none d-md-block">
-          <img class="image-size show-on-scroll inline-photo" src="../image/mer4.jpg" alt=" Mercedes-Benz- Siêu xe Đức">
+          <img class="image-size show-on-scroll inline-photo" src="../image/mer4.jpg" alt=" Laptop-Dell">
         </div>
       </div>
       <div class="row">
         <div class="col-md-6 my-auto">
-          <img class="image-size show-on-scroll inline-photo" src="../image/mer3.jpg" alt=" Mercedes-Benz- Siêu xe Đức">
+          <img class="image-size show-on-scroll inline-photo" src="../image/mer5.jpg" alt=" Laptop-Dell">
         </div>
         <div class="col-md-6 my-auto text-inline">
-          <h3 class="font-weight-bold pb-3">Dòng xe S-Class</h3>
-          <p>Nếu không tính tới Mercedes Maybach thì có lẽ những chiếc xe S Class sẽ là xe đẳng cấp và sang trọng nhất trong bộ sưu tập các dòng xe của Mercedes-Benz. Dòng S-Class này được ra đời vào năm 1972, được nhiều nguyên thủ quốc gia ưa thích và lựa chọn về độ tiện nghi “khủng khiếp” bên trong.
-            </p>
-            <p>
-            Có thể bạn chưa biết, dòng S-Class sử dụng hệ thống phanh ABS đầu tiên trên thế giới đời xe W116 từ năm 1978.
-            <strong>Dòng S Class gồm các thế hệ:</strong></p>
+          <h3 class="font-weight-bold pb-3">Dòng Dell Precision</h3>
+          <p>Đây là dòng dành riêng cho dân thiết kế đồ họa chuyên nghiệp, sở hữu bởi vi xử lý Xeon của Intel , card đồ họa Nvidia Quadro. 
+            Dòng này dành cho dân thiết kế độ họa, IT, design, kỹ sư cơ khí, xây dựng,…
+            <strong>Các phiên bản nổi bật dòng này:</strong></p>
             <ul>
-              <li>Giai đoạn 1972 – 1980: Thế hệ thứ nhất – W116</li>
-              <li>Giai đoạn 1979 – 1991: Thế hệ thứ hai – W126</li>
-              <li>Giai đoạn 1991 – 1998: Thế hệ thứ ba – W140</li>
-              <li>Giai đoạn 1998 – 2005: Thế hệ thứ tư – W220</li>
-              <li>Giai đoạn 2005 – 2013: Thế hệ thứ năm – W221</li>
-              <li>Giai đoạn 2013 – nay: Thế hệ thứ sáu – W222</li>
+              <li>Laptop Workstation Dell Precision 7720</li>
+              <li>Dell Precision 7530</li>
+              <li>Dell Precision M7720</li>
             </ul>            
         </div>
       </div>
@@ -230,7 +230,7 @@ session_start();
                       <p>Sửa chữa</p>
                       <p>Mua linh kiện phụ tùng</p>
                       <p>Báo giá sản phẩm</p>
-                      <p>Mua xe mới</p>
+                      <p>Mua laptop mới</p>
                     </div>
                   </div>
                   <div class="about-us-column">
