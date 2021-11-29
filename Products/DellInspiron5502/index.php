@@ -21,7 +21,7 @@ $_SESSION['pid'] = "1";
 		<nav class="navbar navbar-expand-lg ">
 		  <div class="container">
 			<a class="navbar-brand" href="../Home/Home.php">
-			  Mercedes
+			  Dell
 			</a>
 			<div class="dropdown">
 			  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -30,7 +30,7 @@ $_SESSION['pid'] = "1";
 			  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
 				<a class="dropdown-item" aria-current="page" href="../Home/Home.php">Trang chủ</a>
 				<a class="dropdown-item" aria-current="page" href="../Introduce/Introduce.php">Giới thiệu</a>
-				<a class="dropdown-item" aria-current="page" href="../Product/Products.php">Sản phẩm</a>
+				<a class="dropdown-item" aria-current="page" href="../Products">Sản phẩm</a>
 				<a class="dropdown-item" aria-current="page" href="../Price/Pricea200.php">Bảng giá</a>
 				<a href="../Contact/Contacts.php" class="dropdown-item" aria-current="page">Liên hệ</a>
 				<a class="dropdown-item" href="../account/index.php" class="nav-link" aria-current="page">
@@ -48,10 +48,7 @@ $_SESSION['pid'] = "1";
 				  <a class="nav-link" aria-current="page" href="../Introduce/Introduce.php">Giới thiệu</a>
 				</li>
 				<li class="nav-item">
-				  <a class="nav-link" aria-current="page" href="../Product/Products.php">Sản phẩm</a>
-				</li>
-				<li class="nav-item">
-				  <a class="nav-link active" aria-current="page" href="../Price/Pricea200.php">Bảng giá</a>
+				  <a class="nav-link" aria-current="page" href="../Products">Sản phẩm</a>
 				</li>
 				<li class="nav-item">
 				  <a href="../Contact/Contacts.php" class="nav-link" aria-current="page">Liên hệ</a>
@@ -94,72 +91,31 @@ $_SESSION['pid'] = "1";
 	<div id="menu">
 		<ul>
 			<li>
-				<a href="#">A-CLASS</a>
+				<a href="#">Alienware</a>
 				<ul class="sub-menu">
-					<li><a href="../Price/Pricea200.php">A 200</a></li>
-					<li><a href="../Price/Pricea250.php">A 250</a></li>
+					<li><a href="../DellAlienwareM15R6">AlienwareM15R6</a></li>
 				</ul>
 			</li>
 			<li>
-				<a href="#">C-CLASS</a>
+				<a href="#">Inspiron</a>
 				<ul class="sub-menu">
-					<li><a href="../Price/Pricec200.php">C 200</a></li>
-					<li><a href="../Price/Pricec250.php">C 250</a></li>
-					<li><a href="../Price/Pricec300.php">C 300</a></li>
+					<li><a href="../DellInspiron3501">Dell Inspiron 3501</a></li>
+					<li><a href="../DellInspiron5502">Dell Inspiron 5502</a></li>
 				</ul>
 			</li>
 			<li>
-				<a href="#">E-CLASS</a>
+				<a href="#">Vostro</a>
 				<ul class="sub-menu">
-					<li><a href="../Price/Pricee200.php">E 200</a></li>
-					<li><a href="../Price/Pricee250.php">E 250</a></li>
-					<li><a href="../Price/Pricee300.php">E 300</a></li>
-				</ul>
+					<li><a href="../DellVostro3400">Dell Vostro 3400</a></li>
+  				</ul>
 			</li>
 			<li>
-				<a href="#">G-CLASS</a>
+				<a href="#">XPS</a>
 				<ul class="sub-menu">
-					<li><a href="../Price/Priceg65.php">G 65</a></li>
+					<li><a href="../DellXPS139300">Dell XPS 13 9300</a></li>
 				</ul>
 			</li>
-			<li>
-				<a href="#">GLC-CLASS</a>
-				<ul class="sub-menu">
-					<li><a href="../Price/Priceglc200.php">GLC 200</a></li>
-					<li><a href="../Price/Priceglc300coupe.php">GLC coupe</a></li>
-					<li><a href="../Price/Priceglc300matic.php">GLC 4matic</a></li>
-				</ul>
-			</li>
-			<li>
-				<a href="#">GLE-CLASS</a>
-				<ul class="sub-menu">
-					<li><a href="../Price/Pricegle400.php">GLE 400</a></li>
-					<li><a href="../Price/Pricegle450.php">GLE 450</a></li>
-					
-				</ul>
-			</li>
-			<li>
-				<a href="#">MAYBACH</a>
-				<ul class="sub-menu">
-					<li><a href="../Price/Pricemb450.php">MB 450</a></li>
-					<li><a href="../Price/Pricemb450matic.php">MB 450 4matic</a></li>
-					<li><a href="../Price/Pricemb560.php">MB 560 4matic</a></li>
-				</ul>
-			</li>
-			<li>
-				<a href="#">S-CLASS</a>
-				<ul class="sub-menu">
-					<li><a href="../Price/Prices450.php">S 450</a></li>
-					<li><a href="../Price/Prices500cabriolet.php">S 500 cabriolet</a></li>
-					<li><a href="../Price/Prices500coupe.php">S 500 coupe</a></li>
-				</ul>
-			</li>
-			<li>
-				<a href="#">V-CLASS</a>
-				<ul class="sub-menu">
-					<li><a href="../Price/Pricev250.php">V 250</a></li>
-				</ul>
-			</li>
+
 		</ul>
 	</div>
 

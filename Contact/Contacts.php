@@ -54,8 +54,7 @@
                   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                     <a class="dropdown-item" aria-current="page" href="../Home/Home.php">Trang chủ</a>
                     <a class="dropdown-item" aria-current="page" href="../Introduce/Introduce.php">Giới thiệu</a>
-                    <a class="dropdown-item" aria-current="page" href="../Product/Products.php">Sản phẩm</a>
-                    <a class="dropdown-item" aria-current="page" href="../Price/Pricea200.html">Bảng giá</a>
+                    <a class="dropdown-item" aria-current="page" href="../Products">Sản phẩm</a>
                     <a href="../Contact/Contacts.php" class="dropdown-item" aria-current="page">Liên hệ</a>
       
                   </div>
@@ -69,10 +68,7 @@
                       <a class="nav-link" aria-current="page" href="../Introduce/Introduce.php">Giới thiệu</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" aria-current="page" href="../Product/Products.php">Sản phẩm</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" aria-current="page" href="../Price/Pricea200.php">Bảng giá</a>
+                      <a class="nav-link" aria-current="page" href="../Products">Sản phẩm</a>
                     </li>
                     <li class="nav-item">
                       <a href="../Contact/Contacts.php" class="nav-link active" aria-current="page">Liên hệ</a>

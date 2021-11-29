@@ -33,10 +33,9 @@ session_start();
               <i class="fa fa-bars"></i>
             </button>
             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <a class="dropdown-item" aria-current="page" href="../Home/Home.php">Trang chủ</a>
-              <a class="dropdown-item" aria-current="page" href="../Introduce/Introduce.php">Giới thiệu</a>
-              <a class="dropdown-item" aria-current="page" href="../Product/Products.php">Sản phẩm</a>
-              <a class="dropdown-item" aria-current="page" href="../Price/Pricea200.php">Bảng giá</a>
+              <a class="dropdown-item" aria-current="page" href="//web_as/Home/Home.php">Trang chủ</a>
+              <a class="dropdown-item" aria-current="page" href="//web_as/Introduce/Introduce.php">Giới thiệu</a>
+              <a class="dropdown-item" aria-current="page" href="//web_as/Products">Sản phẩm</a>
               <a href="../Contact/Contacts.php" class="dropdown-item" aria-current="page">Liên hệ</a>
               <a class="dropdown-item" href="../account/index.php" class="nav-link" aria-current="page">
                   <?php if(isset($_SESSION['is_login']) && $_SESSION['is_login'] == true) echo "Trang cá nhân";
@@ -46,7 +45,7 @@ session_start();
            
           </div>
           <a class="navbar-brand" href="../Home/Home.php">
-            Mercedes
+            Dell
           </a>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-auto">
@@ -57,10 +56,7 @@ session_start();
                 <a class="nav-link" aria-current="page" href="../Introduce/Introduce.php">Giới thiệu</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="../Product/Products.php">Sản phẩm</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="../Price/Price.php">Bảng giá</a>
+                <a class="nav-link active" aria-current="page" href="../Products">Sản phẩm</a>
               </li>
               <li class="nav-item">
                 <a href="../Contact/Contacts.php" class="nav-link" aria-current="page">Liên hệ</a>
@@ -82,7 +78,7 @@ session_start();
       <div class="container">
 
         <div class="section-title" data-aos="fade-in" data-aos-delay="100">
-          <h3>Các dòng xe Mercedes</h3>
+          <h3>Các dòng laptop của Dell</h3>
         </div>
 
         <div class="row" data-aos="fade-in">
@@ -143,7 +139,7 @@ session_start();
             <div class="portfolio-wrap">
               <img src="./image_product/dell_xps_139300_1.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="./image_product/dell_xps_139300_1.jpg" data-gall="portfolioGallery" class="venobox" title="Dell XPS 13 9300"><i class="bx bx-plus"></i><h6>Dell 13 9300</h6></a>
+                <a href="./image_product/dell_xps_139300_1.jpg" data-gall="portfolioGallery" class="venobox" title="Dell XPS 13 9300"><i class="bx bx-plus"></i><h6>Dell XPS 13 9300</h6></a>
                 <a href="./DellXPS139300"><i class="bx bx-link"></i><h6>Chi tiết</h6></a>
               </div>
             </div>
