@@ -1,10 +1,10 @@
 <?php
 session_start();
 if(!isset($_SESSION['is_login'])){
-  header("Location: http://localhost/WEB-ASSIGNMENT_1-main/login/index.php");
+  header("Location: ../login/index.php");
 }
 elseif ($_SESSION["is_login"] == false)
-  header("Location: http://localhost/WEB-ASSIGNMENT_1-main/login/index.php");
+  header("Location: ../login/index.php");
 ?>
 <!DOCTYPE html>
 <html lang="vi">
@@ -27,7 +27,7 @@ elseif ($_SESSION["is_login"] == false)
         <nav class="navbar navbar-expand-lg ">
             <div class="container">
             <a class="navbar-brand" href="../Home/Home.php">
-                Mercedes
+                DELL
             </a>
             <div class="dropdown">
                 <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -36,8 +36,7 @@ elseif ($_SESSION["is_login"] == false)
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <a class="dropdown-item" aria-current="page" href="../Home/Home.php">Trang chủ</a>
                 <a class="dropdown-item" aria-current="page" href="../Introduce/Introduce.php">Giới thiệu</a>
-                <a class="dropdown-item" aria-current="page" href="../Product/Products.php">Sản phẩm</a>
-                <a class="dropdown-item" aria-current="page" href="../Price/Pricea200.php">Bảng giá</a>
+                <a class="dropdown-item" aria-current="page" href="../Products">Sản phẩm</a>
                 <a href="../Contact/Contacts.php" class="dropdown-item" aria-current="page">Liên hệ</a>
                 <a class="dropdown-item" href="../account/index.php" class="nav-link" aria-current="page">
                   <?php if(isset($_SESSION['is_login']) && $_SESSION['is_login'] == true) echo "Trang cá nhân";
@@ -54,10 +53,7 @@ elseif ($_SESSION["is_login"] == false)
                     <a class="nav-link" aria-current="page" href="../Introduce/Introduce.php">Giới thiệu</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="../Product/Products.php">Sản phẩm</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="../Price/Pricea200.php">Bảng giá</a>
+                    <a class="nav-link" aria-current="page" href="../Products">Sản phẩm</a>
                 </li>
                 <li class="nav-item">
                     <a href="../Contact/Contacts.php" class="nav-link" aria-current="page">Liên hệ</a>
