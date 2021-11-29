@@ -1,10 +1,10 @@
 <?php
 session_start();
 if(!isset($_SESSION['is_login'])){
-  header("Location: http://localhost/WEB-ASSIGNMENT_1-main/login/index.php");
+  header("Location: ../login/index.php");
 }
 elseif ($_SESSION["is_login"] == false)
-  header("Location: http://localhost/WEB-ASSIGNMENT_1-main/login/index.php");
+  header("Location: ../login/index.php");
 ?>
 <!DOCTYPE html>
 <html lang="vi">
@@ -27,7 +27,7 @@ elseif ($_SESSION["is_login"] == false)
         <nav class="navbar navbar-expand-lg ">
             <div class="container">
             <a class="navbar-brand" href="../Home/Home.php">
-                Mercedes
+                DELL
             </a>
             <div class="dropdown">
                 <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
